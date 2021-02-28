@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bonjour 👋
 
-<!--
-**sorayacruchet/sorayacruchet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my githbug page !
 
-Here are some ideas to get you started:
+I'm a full stack developer living currently in France 🇫🇷 . I’m currently working on my final graduation project, the repo will be public in April 2021 🙊 !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Random facts about me :
+- 📚 Currently learning PHP Data Object and React.
+- 🍬 Willy Wonka is my favorite guinea pig when it comes to user testing.
+- 🔜 Looking for a work-study contract of one year.
+- 📖 When I don't code I read a lot, especially dystopias.
+- 🎣 Don't EVER ask me to go fishing with you !
+
+My portfolio will come soon !
