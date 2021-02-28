@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-Welcome to my githbug page !
+Welcome to my github page !
 
 I'm a full stack developer living currently in France 🇫🇷 . I’m currently working on my final graduation project, the repo will be public in April 2021 🙊 !
 
