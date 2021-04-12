@@ -2,7 +2,7 @@
 
 Welcome to my github page !
 
-I'm a full stack developer living currently in France 🇫🇷 . 
+I'm an aspiring full stack developer living currently in France 🇫🇷 . Student at the Wild Code School.
 
 Random facts about me :
 - 📚 Currently learning PHP Data Object and React.
